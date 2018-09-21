@@ -1,0 +1,12 @@
+{
+  "name": "today-is-inneday-0922",
+  "version": "1.0.0",
+  "description": "서인혜생일웹사이트",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
